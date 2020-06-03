@@ -2,6 +2,7 @@ language: minimal
 services: docker
 
 arch:
+  - amd64
   - arm64
 
 #matrix:
